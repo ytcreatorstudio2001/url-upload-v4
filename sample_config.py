@@ -51,5 +51,5 @@ class Config((object)):
 
     ERROR_TEXT = """ 
     Log: {}
-    Save the Log file and Send it to @TMWAD for Help :)
+    Save the Log file for Help :)
     """ 

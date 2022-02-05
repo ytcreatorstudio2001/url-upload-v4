@@ -1,8 +1,9 @@
 class Translation(object):
     START_TEXT = """Hi {},
 I'm All URL Uploader!
+https://telegra.ph/file/49b253564e0afc2f48ff9.jpg
 You can upload File|Video To Telegram with direct link, Using this bot!
-Support Sites <a href="https://ytdl-org.github.io/youtube-dl/supportedsites.html">HERE</a>
+Support Sites <a href="https://t.me/MovieHub_2k22">HERE</a>
 /help for more details!"""
     FORMAT_SELECTION = "Select the desired format: <a href='{}'>file size might be approximate</a> \nIf you want to set custom thumbnail, send photo before or quickly after tapping on any of the below buttons.\nYou can use /deletethumbnail to delete the auto-generated thumbnail."
     SET_CUSTOM_USERNAME_PASSWORD = """If you want to download premium videos, provide in the following format:
